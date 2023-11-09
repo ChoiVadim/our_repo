@@ -1,7 +1,5 @@
 def main():
-    a = 5
-    b = 10
-    return a + b
+    return "It`s my branch go away"
 
 if __name__ == '__main__':
     main()
